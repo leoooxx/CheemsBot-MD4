@@ -35,7 +35,7 @@ global.APIKeys = {
 }
 
 
-//aumto functioner
+//auto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['916909137213'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.vcardowner = ['2348078924441'] //ur owner number
+global.ownername = "🦦𝕷𝕰𝕺" //ur owner name
+global.ytname = "YT: NIGHTPUNISHER" //ur yt chanel name
+global.socialm = "GitHub: leoooxx" //ur github or insta name
+global.location = "Lagos, Nigeria" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213']
-global.ownertag = '916909137213' //ur tag number
-global.botname = 'Cheems Bot MD V4' //ur bot name
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
-global.reactmoji = "😘" //ur menu react emoji
+global.owner = ['2348078924441']
+global.ownertag = '2348078924441' //ur tag number
+global.botname = '𝕃𝔼𝕆-𝔹𝕆𝕋 𝟚.𝟘' //ur bot name
+global.linkz = "www.youtube.com/channel/UCtrQz2uj9UvoneejlvUkVKw" //your theme url which will be displayed on whatsapp
+global.websitex = "https://github.com/leoooxx" //ur website to be displayed
+global.botscript = 'https://github.com/leoooxx/CheemsBot-MD4' //script link
+global.reactmoji = "🦦" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Dream Guy Xeon" //ur sticker watermark author
+global.packname = "🦄𝕃𝔼𝕆-𝔹𝕆𝕋 𝟚.𝟘" //ur sticker watermark packname
+global.author = "𝕷𝕰𝕺🦄" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -78,8 +78,8 @@ global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
 global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
-//damtabase
-global.premium = ['916909137213'] //ur premium numbers
+//database
+global.premium = ['2348078924441'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -101,24 +101,24 @@ global.ntilink = []
 
 //omther
 global.sessionName = 'session'
-global.antitags = true
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.antitags = false
+global.prefa = ['','!','.','🐦','🐤','🗿',':']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
+    admin: 'This Feature Is Only For Admin, work Harder!',
+    botAdmin: 'I Must Be An Admin First!',
+    owner: 'Only 𝕷𝕰𝕺 can use this feature!',
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
+    bot: 'This Feature Is Only For 𝕃𝔼𝕆-𝔹𝕆𝕋 𝟚.𝟘',
     wait: 'In process...',
     linkm: 'Where is the link?',
     error: 'Error!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
+    ban: 'You have been banned by the 𝕷𝕰𝕺, if you want to be unbanned, chat 𝕷𝕰𝕺.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
-    banChat: 'The bot was banned in this group, please contact the owner to unban'
+    banChat: 'The bot was banned in this group, please contact the 𝕷𝕰𝕺 to unban'
 }
     global.limitawal = {
     premium: "Infinity",
@@ -134,7 +134,7 @@ global.mess = {
    potionawal: 1
 }
 global.thumb = fs.readFileSync('./XeonMedia/theme/cheemspic.jpg')
-global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
+global.flaming = ':https//www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
